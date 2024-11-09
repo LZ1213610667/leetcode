@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\leetcode\\27.Remove_Element\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC6D002-740D-4E5B-A5D1-990DBA6A4EE4}|27.Remove_Element\\27.Remove_Element.vcxproj|D:\\leetcode\\27.Remove_Element\\27.Remove_Element\\Remove_Element.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DC6D002-740D-4E5B-A5D1-990DBA6A4EE4}|27.Remove_Element\\27.Remove_Element.vcxproj|solutionrelative:27.Remove_Element\\Remove_Element.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Remove_Element.cpp",
+              "DocumentMoniker": "D:\\leetcode\\27.Remove_Element\\27.Remove_Element\\Remove_Element.cpp",
+              "RelativeDocumentMoniker": "27.Remove_Element\\Remove_Element.cpp",
+              "ToolTip": "D:\\leetcode\\27.Remove_Element\\27.Remove_Element\\Remove_Element.cpp*",
+              "RelativeToolTip": "27.Remove_Element\\Remove_Element.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T10:04:49.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
