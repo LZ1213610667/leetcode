@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\leetcode\\Kama_58.Range_Sum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71CDF082-5F3B-4DAF-A7D0-64E5CB190941}|Kama_58.Range_Sum\\Kama_58.Range_Sum.vcxproj|D:\\leetcode\\Kama_58.Range_Sum\\Kama_58.Range_Sum\\Range_Sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71CDF082-5F3B-4DAF-A7D0-64E5CB190941}|Kama_58.Range_Sum\\Kama_58.Range_Sum.vcxproj|solutionrelative:Kama_58.Range_Sum\\Range_Sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Range_Sum.cpp",
+              "DocumentMoniker": "D:\\leetcode\\Kama_58.Range_Sum\\Kama_58.Range_Sum\\Range_Sum.cpp",
+              "RelativeDocumentMoniker": "Kama_58.Range_Sum\\Range_Sum.cpp",
+              "ToolTip": "D:\\leetcode\\Kama_58.Range_Sum\\Kama_58.Range_Sum\\Range_Sum.cpp*",
+              "RelativeToolTip": "Kama_58.Range_Sum\\Range_Sum.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T02:30:51.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

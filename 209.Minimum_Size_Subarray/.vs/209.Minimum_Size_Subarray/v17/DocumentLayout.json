@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\leetcode\\209.Minimum_Size_Subarray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE7650C-B4EB-486A-B052-C23E6CC9780D}|209.Minimum_Size_Subarray\\209.Minimum_Size_Subarray.vcxproj|D:\\leetcode\\209.Minimum_Size_Subarray\\209.Minimum_Size_Subarray\\Minimum_size_Subarray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AE7650C-B4EB-486A-B052-C23E6CC9780D}|209.Minimum_Size_Subarray\\209.Minimum_Size_Subarray.vcxproj|solutionrelative:209.Minimum_Size_Subarray\\Minimum_size_Subarray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Minimum_size_Subarray.cpp",
+              "DocumentMoniker": "D:\\leetcode\\209.Minimum_Size_Subarray\\209.Minimum_Size_Subarray\\Minimum_size_Subarray.cpp",
+              "RelativeDocumentMoniker": "209.Minimum_Size_Subarray\\Minimum_size_Subarray.cpp",
+              "ToolTip": "D:\\leetcode\\209.Minimum_Size_Subarray\\209.Minimum_Size_Subarray\\Minimum_size_Subarray.cpp",
+              "RelativeToolTip": "209.Minimum_Size_Subarray\\Minimum_size_Subarray.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T01:35:29.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
