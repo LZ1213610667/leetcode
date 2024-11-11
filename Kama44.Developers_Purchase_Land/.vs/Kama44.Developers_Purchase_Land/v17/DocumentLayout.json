@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\leetcode\\Kama44.Developers_Purchase_Land\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA62A09-AAA5-4E19-85A1-8B912976B74F}|Kama44.Developers_Purchase_Land\\Kama44.Developers_Purchase_Land.vcxproj|D:\\leetcode\\Kama44.Developers_Purchase_Land\\Kama44.Developers_Purchase_Land\\Developers_Purchase_land.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA62A09-AAA5-4E19-85A1-8B912976B74F}|Kama44.Developers_Purchase_Land\\Kama44.Developers_Purchase_Land.vcxproj|solutionrelative:Kama44.Developers_Purchase_Land\\Developers_Purchase_land.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Developers_Purchase_land.cpp",
+              "DocumentMoniker": "D:\\leetcode\\Kama44.Developers_Purchase_Land\\Kama44.Developers_Purchase_Land\\Developers_Purchase_land.cpp",
+              "RelativeDocumentMoniker": "Kama44.Developers_Purchase_Land\\Developers_Purchase_land.cpp",
+              "ToolTip": "D:\\leetcode\\Kama44.Developers_Purchase_Land\\Kama44.Developers_Purchase_Land\\Developers_Purchase_land.cpp",
+              "RelativeToolTip": "Kama44.Developers_Purchase_Land\\Developers_Purchase_land.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T02:22:38.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
